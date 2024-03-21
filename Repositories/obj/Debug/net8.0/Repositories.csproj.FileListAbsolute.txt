@@ -1,0 +1,17 @@
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\bin\Debug\net8.0\DataAccessObjects.dll
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\bin\Debug\net8.0\DataAccessObjects.pdb
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\Repositories\obj\Debug\net8.0\ref\Repositories.dll

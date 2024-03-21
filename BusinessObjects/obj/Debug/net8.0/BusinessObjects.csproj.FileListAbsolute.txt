@@ -1,0 +1,14 @@
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+D:\Code\PRN211\PE_PRN211_FA23_TrialTest_StudentName\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
